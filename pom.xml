@@ -6,6 +6,10 @@
 	<packaging>war</packaging>
 	<name>Shopping Cart</name>
 	<description>A Shopping Cart Project in Java by Bitter Code</description>
+	<properties>
+		<sonar.organization>basilroy1</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
